@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mr-bitcoin-react/static/css/main.7b5e710f.chunk.css",
+    "main.js": "/mr-bitcoin-react/static/js/main.f5a846b4.chunk.js",
+    "main.js.map": "/mr-bitcoin-react/static/js/main.f5a846b4.chunk.js.map",
+    "runtime-main.js": "/mr-bitcoin-react/static/js/runtime-main.a70a500f.js",
+    "runtime-main.js.map": "/mr-bitcoin-react/static/js/runtime-main.a70a500f.js.map",
+    "static/js/2.78d63f79.chunk.js": "/mr-bitcoin-react/static/js/2.78d63f79.chunk.js",
+    "static/js/2.78d63f79.chunk.js.map": "/mr-bitcoin-react/static/js/2.78d63f79.chunk.js.map",
+    "static/js/3.d17bf92f.chunk.js": "/mr-bitcoin-react/static/js/3.d17bf92f.chunk.js",
+    "static/js/3.d17bf92f.chunk.js.map": "/mr-bitcoin-react/static/js/3.d17bf92f.chunk.js.map",
+    "index.html": "/mr-bitcoin-react/index.html",
+    "static/css/main.7b5e710f.chunk.css.map": "/mr-bitcoin-react/static/css/main.7b5e710f.chunk.css.map",
+    "static/js/2.78d63f79.chunk.js.LICENSE.txt": "/mr-bitcoin-react/static/js/2.78d63f79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a70a500f.js",
+    "static/js/2.78d63f79.chunk.js",
+    "static/css/main.7b5e710f.chunk.css",
+    "static/js/main.f5a846b4.chunk.js"
+  ]
+}
