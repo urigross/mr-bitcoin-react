@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mr-bitcoin-react/static/css/main.efb6d43f.chunk.css",
-    "main.js": "/mr-bitcoin-react/static/js/main.b83c0245.chunk.js",
-    "main.js.map": "/mr-bitcoin-react/static/js/main.b83c0245.chunk.js.map",
-    "runtime-main.js": "/mr-bitcoin-react/static/js/runtime-main.5b7dab40.js",
-    "runtime-main.js.map": "/mr-bitcoin-react/static/js/runtime-main.5b7dab40.js.map",
-    "static/js/2.e4b42803.chunk.js": "/mr-bitcoin-react/static/js/2.e4b42803.chunk.js",
-    "static/js/2.e4b42803.chunk.js.map": "/mr-bitcoin-react/static/js/2.e4b42803.chunk.js.map",
-    "static/js/3.2057799f.chunk.js": "/mr-bitcoin-react/static/js/3.2057799f.chunk.js",
-    "static/js/3.2057799f.chunk.js.map": "/mr-bitcoin-react/static/js/3.2057799f.chunk.js.map",
+    "main.css": "/mr-bitcoin-react/static/css/main.88eac22d.chunk.css",
+    "main.js": "/mr-bitcoin-react/static/js/main.32628b3e.chunk.js",
+    "main.js.map": "/mr-bitcoin-react/static/js/main.32628b3e.chunk.js.map",
+    "runtime-main.js": "/mr-bitcoin-react/static/js/runtime-main.a8c7d3d2.js",
+    "runtime-main.js.map": "/mr-bitcoin-react/static/js/runtime-main.a8c7d3d2.js.map",
+    "static/js/2.7bf77c10.chunk.js": "/mr-bitcoin-react/static/js/2.7bf77c10.chunk.js",
+    "static/js/2.7bf77c10.chunk.js.map": "/mr-bitcoin-react/static/js/2.7bf77c10.chunk.js.map",
+    "static/js/3.11d25baf.chunk.js": "/mr-bitcoin-react/static/js/3.11d25baf.chunk.js",
+    "static/js/3.11d25baf.chunk.js.map": "/mr-bitcoin-react/static/js/3.11d25baf.chunk.js.map",
     "index.html": "/mr-bitcoin-react/index.html",
-    "static/css/main.efb6d43f.chunk.css.map": "/mr-bitcoin-react/static/css/main.efb6d43f.chunk.css.map",
-    "static/js/2.e4b42803.chunk.js.LICENSE.txt": "/mr-bitcoin-react/static/js/2.e4b42803.chunk.js.LICENSE.txt"
+    "static/css/main.88eac22d.chunk.css.map": "/mr-bitcoin-react/static/css/main.88eac22d.chunk.css.map",
+    "static/js/2.7bf77c10.chunk.js.LICENSE.txt": "/mr-bitcoin-react/static/js/2.7bf77c10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b7dab40.js",
-    "static/js/2.e4b42803.chunk.js",
-    "static/css/main.efb6d43f.chunk.css",
-    "static/js/main.b83c0245.chunk.js"
+    "static/js/runtime-main.a8c7d3d2.js",
+    "static/js/2.7bf77c10.chunk.js",
+    "static/css/main.88eac22d.chunk.css",
+    "static/js/main.32628b3e.chunk.js"
   ]
 }
